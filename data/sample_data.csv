@@ -1,0 +1,501 @@
+transaction_id,sale_date,region,product_id,product_name,category,sub_category,unit_cost,quantity,unit_price,sales_amount,discount_pct,return_amount,return_reason,net_revenue
+1,2024-07-28,Central,69,Womens Item 69,Clothing,Womens,66.51,5,144.4,722.0,8.0,0,No Return,722.0
+2,2023-08-13,North,18,Accessories Item 18,Electronics,Accessories,119.91,9,220.82,1987.38,3.1,0,No Return,1987.38
+3,2023-06-13,West,55,Bookcases Item 55,Furniture,Bookcases,131.37,10,168.49,1684.9,10.6,0,No Return,1684.9
+4,2024-07-20,East,2,Phones Item 2,Electronics,Phones,9.88,2,20.61,41.22,15.4,0,No Return,41.22
+5,2023-12-15,East,15,Tablets Item 15,Electronics,Tablets,131.73,5,232.53,1162.65,19.4,0,No Return,1162.65
+6,2023-07-02,Central,65,Mens Item 65,Clothing,Mens,169.36,2,394.89,789.78,12.2,0,No Return,789.78
+7,2023-06-06,Central,48,Desks Item 48,Furniture,Desks,59.2,3,112.55,337.65,18.4,0,No Return,337.65
+8,2024-09-05,East,42,Chairs Item 42,Furniture,Chairs,13.94,8,17.08,136.64,4.8,0,No Return,136.64
+9,2023-09-04,North,73,Kids Item 73,Clothing,Kids,175.89,2,230.65,461.3,19.6,0,No Return,461.3
+10,2024-06-29,South,17,Accessories Item 17,Electronics,Accessories,47.99,3,98.75,296.25,5.3,0,No Return,296.25
+11,2024-09-13,South,55,Bookcases Item 55,Furniture,Bookcases,131.37,4,316.28,1265.12,14.3,0,No Return,1265.12
+12,2024-02-13,South,48,Desks Item 48,Furniture,Desks,59.2,8,140.27,1122.16,4.5,0,No Return,1122.16
+13,2023-12-13,North,3,Phones Item 3,Electronics,Phones,58.63,10,112.58,1125.8,1.4,0,No Return,1125.8
+14,2024-10-08,South,8,Laptops Item 8,Electronics,Laptops,21.95,4,28.26,113.04,5.6,75.2,Late Delivery,37.84
+15,2024-05-12,Central,28,Binders Item 28,Office Supplies,Binders,23.86,9,32.74,294.66,11.5,0,No Return,294.66
+16,2023-09-06,West,61,Mens Item 61,Clothing,Mens,197.96,7,286.55,2005.85,9.3,1435.24,Changed Mind,570.61
+17,2023-02-25,North,13,Tablets Item 13,Electronics,Tablets,10.17,1,17.53,17.53,5.0,0,No Return,17.53
+18,2023-07-14,West,69,Womens Item 69,Clothing,Womens,66.51,8,91.93,735.44,5.0,0,No Return,735.44
+19,2023-03-19,Central,57,Tables Item 57,Furniture,Tables,38.37,9,50.93,458.37,16.7,0,No Return,458.37
+20,2023-04-06,West,31,Pens Item 31,Office Supplies,Pens,162.39,3,280.66,841.98,18.0,0,No Return,841.98
+21,2023-06-18,West,49,Desks Item 49,Furniture,Desks,128.96,1,319.94,319.94,5.7,0,No Return,319.94
+22,2024-12-14,North,72,Kids Item 72,Clothing,Kids,188.87,8,264.65,2117.2,11.6,0,No Return,2117.2
+23,2024-07-09,Central,8,Laptops Item 8,Electronics,Laptops,21.95,6,27.97,167.82,18.4,0,No Return,167.82
+24,2024-06-27,North,21,Paper Item 21,Office Supplies,Paper,162.13,1,397.06,397.06,13.5,235.42,Late Delivery,161.64
+25,2023-08-29,Central,52,Bookcases Item 52,Furniture,Bookcases,45.85,2,111.14,222.28,11.9,0,No Return,222.28
+26,2024-09-26,East,11,Tablets Item 11,Electronics,Tablets,47.63,7,97.86,685.02,18.7,0,No Return,685.02
+27,2023-07-29,East,41,Chairs Item 41,Furniture,Chairs,142.39,4,220.04,880.16,18.6,724.15,Changed Mind,156.01
+28,2023-03-16,North,2,Phones Item 2,Electronics,Phones,9.88,8,19.83,158.64,1.5,0,No Return,158.64
+29,2023-08-07,North,65,Mens Item 65,Clothing,Mens,169.36,5,232.39,1161.95,17.6,0,No Return,1161.95
+30,2024-01-14,East,37,Storage Item 37,Office Supplies,Storage,166.73,3,295.05,885.15,12.2,0,No Return,885.15
+31,2024-10-31,North,68,Womens Item 68,Clothing,Womens,11.26,1,23.29,23.29,18.8,0,No Return,23.29
+32,2023-05-18,South,34,Pens Item 34,Office Supplies,Pens,194.76,2,458.98,917.96,5.4,0,No Return,917.96
+33,2024-09-11,East,27,Binders Item 27,Office Supplies,Binders,23.09,6,33.82,202.92,10.1,0,No Return,202.92
+34,2023-09-15,North,7,Laptops Item 7,Electronics,Laptops,178.98,2,362.36,724.72,0.1,0,No Return,724.72
+35,2023-05-14,West,34,Pens Item 34,Office Supplies,Pens,194.76,3,421.38,1264.14,11.2,0,No Return,1264.14
+36,2023-04-25,Central,10,Laptops Item 10,Electronics,Laptops,10.81,3,20.64,61.92,11.1,0,No Return,61.92
+37,2024-03-16,North,17,Accessories Item 17,Electronics,Accessories,47.99,1,76.82,76.82,18.0,0,No Return,76.82
+38,2023-08-04,West,32,Pens Item 32,Office Supplies,Pens,147.3,2,244.49,488.98,19.5,0,No Return,488.98
+39,2023-06-08,West,31,Pens Item 31,Office Supplies,Pens,162.39,3,400.95,1202.85,0.5,0,No Return,1202.85
+40,2023-12-07,North,53,Bookcases Item 53,Furniture,Bookcases,57.06,4,88.26,353.04,7.7,0,No Return,353.04
+41,2023-02-09,East,61,Mens Item 61,Clothing,Mens,197.96,4,288.91,1155.64,6.1,0,No Return,1155.64
+42,2023-08-22,East,29,Binders Item 29,Office Supplies,Binders,170.26,1,350.4,350.4,17.3,0,No Return,350.4
+43,2023-10-13,Central,45,Chairs Item 45,Furniture,Chairs,20.56,9,35.35,318.15,6.6,0,No Return,318.15
+44,2023-01-29,East,15,Tablets Item 15,Electronics,Tablets,131.73,5,188.66,943.3,0.8,0,No Return,943.3
+45,2024-09-02,Central,56,Tables Item 56,Furniture,Tables,123.78,6,265.77,1594.62,19.7,0,No Return,1594.62
+46,2023-04-29,Central,50,Desks Item 50,Furniture,Desks,76.14,10,110.18,1101.8,13.7,791.12,Late Delivery,310.68
+47,2024-11-17,East,26,Binders Item 26,Office Supplies,Binders,70.64,6,124.37,746.22,12.5,0,No Return,746.22
+48,2024-11-10,East,16,Accessories Item 16,Electronics,Accessories,111.26,5,206.86,1034.3,8.0,0,No Return,1034.3
+49,2023-10-30,West,71,Kids Item 71,Clothing,Kids,46.14,3,66.87,200.61,13.5,0,No Return,200.61
+50,2023-06-28,North,79,Accessories Item 79,Clothing,Accessories,56.65,10,90.14,901.4,6.1,0,No Return,901.4
+51,2023-08-04,West,56,Tables Item 56,Furniture,Tables,123.78,10,246.16,2461.6,8.8,0,No Return,2461.6
+52,2023-08-07,South,66,Womens Item 66,Clothing,Womens,156.32,8,348.88,2791.04,13.2,0,No Return,2791.04
+53,2023-10-18,South,66,Womens Item 66,Clothing,Womens,156.32,10,255.7,2557.0,13.5,0,No Return,2557.0
+54,2023-08-19,West,26,Binders Item 26,Office Supplies,Binders,70.64,3,87.01,261.03,12.2,0,No Return,261.03
+55,2023-03-16,West,59,Tables Item 59,Furniture,Tables,36.86,7,86.69,606.83,9.9,0,No Return,606.83
+56,2023-09-07,North,19,Accessories Item 19,Electronics,Accessories,162.84,1,384.38,384.38,15.6,0,No Return,384.38
+57,2023-08-13,North,23,Paper Item 23,Office Supplies,Paper,71.35,9,128.71,1158.39,9.1,0,No Return,1158.39
+58,2024-04-20,West,68,Womens Item 68,Clothing,Womens,11.26,9,22.23,200.07,12.3,0,No Return,200.07
+59,2024-05-31,East,55,Bookcases Item 55,Furniture,Bookcases,131.37,9,233.8,2104.2,15.0,1958.48,Changed Mind,145.72
+60,2024-10-14,West,36,Storage Item 36,Office Supplies,Storage,112.65,9,206.15,1855.35,1.5,0,No Return,1855.35
+61,2023-10-20,North,31,Pens Item 31,Office Supplies,Pens,162.39,5,265.77,1328.85,2.8,0,No Return,1328.85
+62,2023-08-25,West,50,Desks Item 50,Furniture,Desks,76.14,3,161.29,483.87,8.3,340.55,Late Delivery,143.32
+63,2023-07-31,North,54,Bookcases Item 54,Furniture,Bookcases,187.65,7,445.91,3121.37,17.1,0,No Return,3121.37
+64,2024-08-12,West,49,Desks Item 49,Furniture,Desks,128.96,8,155.74,1245.92,17.1,0,No Return,1245.92
+65,2024-03-05,West,69,Womens Item 69,Clothing,Womens,66.51,9,148.97,1340.73,4.4,0,No Return,1340.73
+66,2024-03-22,West,63,Mens Item 63,Clothing,Mens,113.61,1,193.76,193.76,14.5,0,No Return,193.76
+67,2024-04-23,Central,17,Accessories Item 17,Electronics,Accessories,47.99,10,90.91,909.1,11.3,0,No Return,909.1
+68,2023-01-28,North,11,Tablets Item 11,Electronics,Tablets,47.63,7,65.56,458.92,5.2,0,No Return,458.92
+69,2023-12-02,West,28,Binders Item 28,Office Supplies,Binders,23.86,8,38.77,310.16,5.6,0,No Return,310.16
+70,2024-03-07,North,33,Pens Item 33,Office Supplies,Pens,109.56,2,198.46,396.92,20.0,0,No Return,396.92
+71,2023-12-25,North,29,Binders Item 29,Office Supplies,Binders,170.26,2,377.23,754.46,19.0,0,No Return,754.46
+72,2023-07-24,South,3,Phones Item 3,Electronics,Phones,58.63,10,81.97,819.7,9.3,684.23,Late Delivery,135.47
+73,2023-09-20,North,48,Desks Item 48,Furniture,Desks,59.2,3,117.67,353.01,15.6,0,No Return,353.01
+74,2023-06-17,Central,40,Storage Item 40,Office Supplies,Storage,117.58,2,229.55,459.1,13.5,0,No Return,459.1
+75,2024-01-20,South,51,Bookcases Item 51,Furniture,Bookcases,77.19,4,100.25,401.0,2.0,0,No Return,401.0
+76,2023-11-05,North,77,Accessories Item 77,Clothing,Accessories,183.34,2,409.78,819.56,6.9,0,No Return,819.56
+77,2024-03-14,West,48,Desks Item 48,Furniture,Desks,59.2,2,109.98,219.96,16.4,0,No Return,219.96
+78,2023-04-19,South,56,Tables Item 56,Furniture,Tables,123.78,6,250.81,1504.86,8.7,0,No Return,1504.86
+79,2024-06-18,West,35,Pens Item 35,Office Supplies,Pens,78.81,10,177.37,1773.7,9.3,0,No Return,1773.7
+80,2024-08-29,North,35,Pens Item 35,Office Supplies,Pens,78.81,6,181.83,1090.98,5.6,0,No Return,1090.98
+81,2024-04-06,East,32,Pens Item 32,Office Supplies,Pens,147.3,8,285.88,2287.04,0.6,0,No Return,2287.04
+82,2023-11-29,East,24,Paper Item 24,Office Supplies,Paper,35.32,8,52.12,416.96,5.6,0,No Return,416.96
+83,2024-09-02,North,36,Storage Item 36,Office Supplies,Storage,112.65,9,136.67,1230.03,4.8,0,No Return,1230.03
+84,2024-02-21,West,63,Mens Item 63,Clothing,Mens,113.61,9,248.31,2234.79,9.0,0,No Return,2234.79
+85,2023-01-18,East,12,Tablets Item 12,Electronics,Tablets,103.54,5,154.08,770.4,13.3,0,No Return,770.4
+86,2024-01-13,Central,61,Mens Item 61,Clothing,Mens,197.96,9,374.18,3367.62,6.6,0,No Return,3367.62
+87,2024-12-20,South,59,Tables Item 59,Furniture,Tables,36.86,5,58.92,294.6,6.3,0,No Return,294.6
+88,2024-07-02,Central,24,Paper Item 24,Office Supplies,Paper,35.32,4,52.32,209.28,19.5,0,No Return,209.28
+89,2024-06-21,East,77,Accessories Item 77,Clothing,Accessories,183.34,5,453.7,2268.5,4.5,0,No Return,2268.5
+90,2023-07-03,Central,39,Storage Item 39,Office Supplies,Storage,173.03,1,366.9,366.9,5.8,191.8,Defective Product,175.1
+91,2023-05-10,West,63,Mens Item 63,Clothing,Mens,113.61,2,265.23,530.46,9.6,0,No Return,530.46
+92,2023-12-15,North,24,Paper Item 24,Office Supplies,Paper,35.32,1,53.98,53.98,16.4,0,No Return,53.98
+93,2024-02-15,South,63,Mens Item 63,Clothing,Mens,113.61,2,221.55,443.1,3.0,0,No Return,443.1
+94,2024-07-30,Central,39,Storage Item 39,Office Supplies,Storage,173.03,2,431.21,862.42,15.8,760.85,Late Delivery,101.57
+95,2023-08-20,Central,67,Womens Item 67,Clothing,Womens,49.66,7,88.68,620.76,19.8,0,No Return,620.76
+96,2023-11-09,North,73,Kids Item 73,Clothing,Kids,175.89,10,224.84,2248.4,19.0,0,No Return,2248.4
+97,2023-08-01,South,28,Binders Item 28,Office Supplies,Binders,23.86,5,49.12,245.6,0.1,144.14,Defective Product,101.46
+98,2024-04-06,East,77,Accessories Item 77,Clothing,Accessories,183.34,8,289.43,2315.44,14.1,0,No Return,2315.44
+99,2024-04-09,Central,10,Laptops Item 10,Electronics,Laptops,10.81,4,25.96,103.84,13.2,0,No Return,103.84
+100,2023-07-22,East,55,Bookcases Item 55,Furniture,Bookcases,131.37,2,250.64,501.28,16.5,0,No Return,501.28
+101,2023-03-15,Central,8,Laptops Item 8,Electronics,Laptops,21.95,3,48.96,146.88,18.4,0,No Return,146.88
+102,2024-03-25,East,16,Accessories Item 16,Electronics,Accessories,111.26,8,233.12,1864.96,10.0,0,No Return,1864.96
+103,2024-05-20,East,57,Tables Item 57,Furniture,Tables,38.37,2,75.87,151.74,12.1,0,No Return,151.74
+104,2023-01-27,Central,12,Tablets Item 12,Electronics,Tablets,103.54,4,253.72,1014.88,11.7,0,No Return,1014.88
+105,2023-01-22,West,35,Pens Item 35,Office Supplies,Pens,78.81,10,98.69,986.9,10.4,0,No Return,986.9
+106,2024-03-28,West,36,Storage Item 36,Office Supplies,Storage,112.65,3,281.18,843.54,19.4,0,No Return,843.54
+107,2024-04-26,South,45,Chairs Item 45,Furniture,Chairs,20.56,7,33.58,235.06,6.6,0,No Return,235.06
+108,2024-12-11,Central,64,Mens Item 64,Clothing,Mens,138.5,5,285.5,1427.5,0.7,0,No Return,1427.5
+109,2023-04-01,West,41,Chairs Item 41,Furniture,Chairs,142.39,5,230.71,1153.55,17.3,0,No Return,1153.55
+110,2023-01-02,East,70,Womens Item 70,Clothing,Womens,57.21,8,99.39,795.12,12.5,0,No Return,795.12
+111,2024-05-25,East,57,Tables Item 57,Furniture,Tables,38.37,1,56.2,56.2,8.8,0,No Return,56.2
+112,2024-12-16,South,63,Mens Item 63,Clothing,Mens,113.61,2,140.6,281.2,14.2,0,No Return,281.2
+113,2023-11-15,West,71,Kids Item 71,Clothing,Kids,46.14,1,88.49,88.49,18.9,88.15,Defective Product,0.34
+114,2024-10-25,East,20,Accessories Item 20,Electronics,Accessories,6.27,8,15.13,121.04,8.3,0,No Return,121.04
+115,2024-05-09,Central,61,Mens Item 61,Clothing,Mens,197.96,4,355.11,1420.44,14.9,845.6,Late Delivery,574.84
+116,2023-05-20,East,9,Laptops Item 9,Electronics,Laptops,87.27,5,192.38,961.9,18.7,0,No Return,961.9
+117,2024-06-03,Central,35,Pens Item 35,Office Supplies,Pens,78.81,1,123.55,123.55,11.6,0,No Return,123.55
+118,2024-11-06,East,63,Mens Item 63,Clothing,Mens,113.61,3,202.28,606.84,11.0,0,No Return,606.84
+119,2024-07-10,South,49,Desks Item 49,Furniture,Desks,128.96,8,311.14,2489.12,11.4,0,No Return,2489.12
+120,2023-08-28,West,53,Bookcases Item 53,Furniture,Bookcases,57.06,1,92.07,92.07,7.7,0,No Return,92.07
+121,2024-11-10,North,20,Accessories Item 20,Electronics,Accessories,6.27,8,15.39,123.12,17.5,120.99,Not As Described,2.13
+122,2024-03-26,North,13,Tablets Item 13,Electronics,Tablets,10.17,9,24.24,218.16,9.4,124.8,Wrong Item Shipped,93.36
+123,2023-09-29,East,44,Chairs Item 44,Furniture,Chairs,61.43,10,129.03,1290.3,17.0,0,No Return,1290.3
+124,2024-06-30,West,49,Desks Item 49,Furniture,Desks,128.96,6,259.83,1558.98,17.4,0,No Return,1558.98
+125,2023-02-06,East,80,Accessories Item 80,Clothing,Accessories,53.09,2,79.91,159.82,19.9,0,No Return,159.82
+126,2023-04-03,North,56,Tables Item 56,Furniture,Tables,123.78,2,270.89,541.78,8.9,0,No Return,541.78
+127,2024-12-11,East,39,Storage Item 39,Office Supplies,Storage,173.03,1,217.98,217.98,7.2,0,No Return,217.98
+128,2024-03-17,South,19,Accessories Item 19,Electronics,Accessories,162.84,4,307.85,1231.4,3.4,0,No Return,1231.4
+129,2023-03-22,Central,79,Accessories Item 79,Clothing,Accessories,56.65,7,113.62,795.34,2.9,0,No Return,795.34
+130,2024-04-17,Central,33,Pens Item 33,Office Supplies,Pens,109.56,8,167.84,1342.72,3.2,1211.56,Not As Described,131.16
+131,2024-03-28,East,45,Chairs Item 45,Furniture,Chairs,20.56,10,32.67,326.7,9.1,0,No Return,326.7
+132,2023-11-06,Central,26,Binders Item 26,Office Supplies,Binders,70.64,7,163.13,1141.91,5.9,788.7,Not As Described,353.21
+133,2024-12-17,East,38,Storage Item 38,Office Supplies,Storage,125.61,1,310.42,310.42,0.2,0,No Return,310.42
+134,2024-12-03,East,7,Laptops Item 7,Electronics,Laptops,178.98,10,388.16,3881.6,15.5,0,No Return,3881.6
+135,2023-08-24,East,78,Accessories Item 78,Clothing,Accessories,94.48,6,140.28,841.68,13.6,0,No Return,841.68
+136,2024-11-06,East,18,Accessories Item 18,Electronics,Accessories,119.91,2,284.72,569.44,15.8,0,No Return,569.44
+137,2023-02-04,South,75,Kids Item 75,Clothing,Kids,132.81,6,285.82,1714.92,4.0,1110.51,Changed Mind,604.41
+138,2024-07-06,South,47,Desks Item 47,Furniture,Desks,24.7,9,45.75,411.75,5.1,0,No Return,411.75
+139,2024-05-08,North,38,Storage Item 38,Office Supplies,Storage,125.61,6,282.06,1692.36,2.8,0,No Return,1692.36
+140,2023-08-20,North,51,Bookcases Item 51,Furniture,Bookcases,77.19,9,129.33,1163.97,5.3,0,No Return,1163.97
+141,2023-05-07,Central,59,Tables Item 59,Furniture,Tables,36.86,6,76.47,458.82,7.6,0,No Return,458.82
+142,2024-10-15,Central,48,Desks Item 48,Furniture,Desks,59.2,2,122.98,245.96,17.7,0,No Return,245.96
+143,2024-07-28,West,42,Chairs Item 42,Furniture,Chairs,13.94,10,20.74,207.4,2.3,189.13,Not As Described,18.27
+144,2023-02-16,South,5,Phones Item 5,Electronics,Phones,148.61,5,370.74,1853.7,7.8,1144.47,Late Delivery,709.23
+145,2024-01-15,West,70,Womens Item 70,Clothing,Womens,57.21,7,112.33,786.31,13.1,0,No Return,786.31
+146,2024-05-16,East,79,Accessories Item 79,Clothing,Accessories,56.65,7,137.14,959.98,4.3,0,No Return,959.98
+147,2024-03-31,Central,31,Pens Item 31,Office Supplies,Pens,162.39,6,215.84,1295.04,18.0,0,No Return,1295.04
+148,2024-10-22,North,46,Desks Item 46,Furniture,Desks,50.39,1,86.55,86.55,19.0,0,No Return,86.55
+149,2024-04-10,North,12,Tablets Item 12,Electronics,Tablets,103.54,4,210.62,842.48,1.0,0,No Return,842.48
+150,2023-12-08,Central,32,Pens Item 32,Office Supplies,Pens,147.3,3,327.46,982.38,4.1,0,No Return,982.38
+151,2023-08-10,Central,30,Binders Item 30,Office Supplies,Binders,122.73,6,270.83,1624.98,0.1,0,No Return,1624.98
+152,2023-05-29,South,17,Accessories Item 17,Electronics,Accessories,47.99,9,73.23,659.07,0.3,547.38,Defective Product,111.69
+153,2023-09-01,South,76,Accessories Item 76,Clothing,Accessories,82.15,6,100.27,601.62,14.8,0,No Return,601.62
+154,2024-06-22,Central,15,Tablets Item 15,Electronics,Tablets,131.73,2,239.63,479.26,11.9,0,No Return,479.26
+155,2024-04-07,East,65,Mens Item 65,Clothing,Mens,169.36,4,411.38,1645.52,9.2,1467.17,Late Delivery,178.35
+156,2023-02-01,North,8,Laptops Item 8,Electronics,Laptops,21.95,8,50.52,404.16,9.8,0,No Return,404.16
+157,2024-03-30,Central,10,Laptops Item 10,Electronics,Laptops,10.81,2,17.5,35.0,11.0,19.71,Late Delivery,15.29
+158,2023-11-29,Central,49,Desks Item 49,Furniture,Desks,128.96,10,243.7,2437.0,8.6,0,No Return,2437.0
+159,2024-12-19,West,15,Tablets Item 15,Electronics,Tablets,131.73,9,281.52,2533.68,17.8,0,No Return,2533.68
+160,2024-02-28,East,44,Chairs Item 44,Furniture,Chairs,61.43,8,105.56,844.48,8.5,0,No Return,844.48
+161,2024-11-12,West,33,Pens Item 33,Office Supplies,Pens,109.56,6,267.29,1603.74,1.3,0,No Return,1603.74
+162,2023-03-29,South,12,Tablets Item 12,Electronics,Tablets,103.54,7,137.25,960.75,11.1,0,No Return,960.75
+163,2024-08-23,North,72,Kids Item 72,Clothing,Kids,188.87,9,307.58,2768.22,19.4,1873.53,Changed Mind,894.69
+164,2024-09-06,South,40,Storage Item 40,Office Supplies,Storage,117.58,6,156.93,941.58,13.1,0,No Return,941.58
+165,2023-08-18,East,14,Tablets Item 14,Electronics,Tablets,43.77,6,100.63,603.78,11.5,0,No Return,603.78
+166,2024-03-15,North,72,Kids Item 72,Clothing,Kids,188.87,10,377.3,3773.0,12.2,0,No Return,3773.0
+167,2024-11-04,East,35,Pens Item 35,Office Supplies,Pens,78.81,1,113.06,113.06,18.4,0,No Return,113.06
+168,2023-12-26,West,1,Phones Item 1,Electronics,Phones,129.69,3,302.28,906.84,1.4,0,No Return,906.84
+169,2024-10-10,West,4,Phones Item 4,Electronics,Phones,48.53,2,105.31,210.62,9.1,0,No Return,210.62
+170,2023-06-11,Central,48,Desks Item 48,Furniture,Desks,59.2,5,126.57,632.85,11.9,0,No Return,632.85
+171,2023-02-23,West,20,Accessories Item 20,Electronics,Accessories,6.27,3,13.67,41.01,9.7,22.18,Changed Mind,18.83
+172,2024-03-28,East,54,Bookcases Item 54,Furniture,Bookcases,187.65,5,277.77,1388.85,8.6,0,No Return,1388.85
+173,2023-10-18,South,76,Accessories Item 76,Clothing,Accessories,82.15,8,154.85,1238.8,7.9,0,No Return,1238.8
+174,2024-09-05,South,8,Laptops Item 8,Electronics,Laptops,21.95,1,32.17,32.17,15.3,0,No Return,32.17
+175,2023-10-24,South,42,Chairs Item 42,Furniture,Chairs,13.94,2,16.87,33.74,2.6,0,No Return,33.74
+176,2024-06-29,East,30,Binders Item 30,Office Supplies,Binders,122.73,9,236.42,2127.78,1.4,0,No Return,2127.78
+177,2023-02-13,Central,56,Tables Item 56,Furniture,Tables,123.78,1,222.52,222.52,8.1,146.09,Changed Mind,76.43
+178,2024-10-17,West,54,Bookcases Item 54,Furniture,Bookcases,187.65,5,253.28,1266.4,16.6,838.84,Late Delivery,427.56
+179,2024-01-06,Central,12,Tablets Item 12,Electronics,Tablets,103.54,7,237.92,1665.44,8.0,0,No Return,1665.44
+180,2023-03-22,South,51,Bookcases Item 51,Furniture,Bookcases,77.19,5,167.47,837.35,1.5,0,No Return,837.35
+181,2024-10-10,East,15,Tablets Item 15,Electronics,Tablets,131.73,9,245.4,2208.6,7.0,0,No Return,2208.6
+182,2024-10-22,South,19,Accessories Item 19,Electronics,Accessories,162.84,4,217.17,868.68,12.0,0,No Return,868.68
+183,2024-11-02,West,10,Laptops Item 10,Electronics,Laptops,10.81,3,26.34,79.02,15.1,0,No Return,79.02
+184,2024-08-16,East,58,Tables Item 58,Furniture,Tables,147.18,10,299.64,2996.4,17.3,0,No Return,2996.4
+185,2024-10-04,East,41,Chairs Item 41,Furniture,Chairs,142.39,3,252.27,756.81,15.9,0,No Return,756.81
+186,2024-08-28,West,8,Laptops Item 8,Electronics,Laptops,21.95,6,40.82,244.92,0.8,0,No Return,244.92
+187,2024-01-13,North,37,Storage Item 37,Office Supplies,Storage,166.73,2,339.81,679.62,12.3,0,No Return,679.62
+188,2024-06-03,North,50,Desks Item 50,Furniture,Desks,76.14,8,148.81,1190.48,9.0,0,No Return,1190.48
+189,2024-08-08,North,25,Paper Item 25,Office Supplies,Paper,191.66,6,380.73,2284.38,9.0,0,No Return,2284.38
+190,2023-12-18,Central,11,Tablets Item 11,Electronics,Tablets,47.63,9,97.16,874.44,10.5,746.61,Changed Mind,127.83
+191,2023-06-12,East,47,Desks Item 47,Furniture,Desks,24.7,6,59.11,354.66,13.6,0,No Return,354.66
+192,2023-02-23,West,43,Chairs Item 43,Furniture,Chairs,49.44,2,80.52,161.04,5.7,0,No Return,161.04
+193,2024-11-03,South,78,Accessories Item 78,Clothing,Accessories,94.48,3,154.32,462.96,18.3,0,No Return,462.96
+194,2023-11-14,East,51,Bookcases Item 51,Furniture,Bookcases,77.19,3,152.34,457.02,11.2,0,No Return,457.02
+195,2024-10-20,Central,43,Chairs Item 43,Furniture,Chairs,49.44,3,102.4,307.2,1.9,0,No Return,307.2
+196,2024-11-17,South,55,Bookcases Item 55,Furniture,Bookcases,131.37,9,219.44,1974.96,19.0,0,No Return,1974.96
+197,2023-12-16,Central,63,Mens Item 63,Clothing,Mens,113.61,4,169.79,679.16,15.4,365.78,Defective Product,313.38
+198,2024-06-23,Central,5,Phones Item 5,Electronics,Phones,148.61,6,347.64,2085.84,7.5,0,No Return,2085.84
+199,2023-06-16,East,24,Paper Item 24,Office Supplies,Paper,35.32,10,79.53,795.3,13.5,571.69,Changed Mind,223.61
+200,2023-09-01,West,57,Tables Item 57,Furniture,Tables,38.37,10,60.26,602.6,4.7,0,No Return,602.6
+201,2023-09-02,Central,40,Storage Item 40,Office Supplies,Storage,117.58,8,279.27,2234.16,19.7,0,No Return,2234.16
+202,2024-04-17,South,37,Storage Item 37,Office Supplies,Storage,166.73,7,309.08,2163.56,16.3,0,No Return,2163.56
+203,2024-09-11,East,18,Accessories Item 18,Electronics,Accessories,119.91,5,152.03,760.15,11.1,0,No Return,760.15
+204,2023-04-16,East,67,Womens Item 67,Clothing,Womens,49.66,2,78.0,156.0,9.0,0,No Return,156.0
+205,2024-06-09,West,19,Accessories Item 19,Electronics,Accessories,162.84,7,214.82,1503.74,17.7,0,No Return,1503.74
+206,2023-01-28,West,54,Bookcases Item 54,Furniture,Bookcases,187.65,1,321.89,321.89,19.9,0,No Return,321.89
+207,2024-01-19,South,29,Binders Item 29,Office Supplies,Binders,170.26,1,274.85,274.85,2.8,235.64,Not As Described,39.21
+208,2023-10-21,Central,61,Mens Item 61,Clothing,Mens,197.96,3,432.84,1298.52,0.1,0,No Return,1298.52
+209,2023-03-23,Central,3,Phones Item 3,Electronics,Phones,58.63,5,86.79,433.95,8.5,420.98,Late Delivery,12.97
+210,2023-10-23,Central,31,Pens Item 31,Office Supplies,Pens,162.39,5,220.59,1102.95,9.1,0,No Return,1102.95
+211,2023-04-24,Central,64,Mens Item 64,Clothing,Mens,138.5,10,262.72,2627.2,4.8,0,No Return,2627.2
+212,2023-05-28,Central,38,Storage Item 38,Office Supplies,Storage,125.61,7,150.99,1056.93,8.3,0,No Return,1056.93
+213,2024-11-11,Central,11,Tablets Item 11,Electronics,Tablets,47.63,9,117.51,1057.59,11.1,806.97,Late Delivery,250.62
+214,2024-02-04,East,61,Mens Item 61,Clothing,Mens,197.96,1,401.14,401.14,14.9,0,No Return,401.14
+215,2024-01-01,North,9,Laptops Item 9,Electronics,Laptops,87.27,6,132.08,792.48,15.4,0,No Return,792.48
+216,2023-12-07,South,18,Accessories Item 18,Electronics,Accessories,119.91,1,198.81,198.81,16.6,0,No Return,198.81
+217,2024-12-02,North,60,Tables Item 60,Furniture,Tables,78.99,8,159.66,1277.28,14.3,0,No Return,1277.28
+218,2024-04-13,North,5,Phones Item 5,Electronics,Phones,148.61,5,217.28,1086.4,6.3,0,No Return,1086.4
+219,2023-11-14,East,66,Womens Item 66,Clothing,Womens,156.32,7,388.59,2720.13,0.7,0,No Return,2720.13
+220,2024-10-24,East,25,Paper Item 25,Office Supplies,Paper,191.66,5,318.93,1594.65,5.5,0,No Return,1594.65
+221,2024-01-12,West,56,Tables Item 56,Furniture,Tables,123.78,7,268.14,1876.98,6.8,0,No Return,1876.98
+222,2023-07-11,East,64,Mens Item 64,Clothing,Mens,138.5,8,232.34,1858.72,16.0,0,No Return,1858.72
+223,2024-03-10,Central,11,Tablets Item 11,Electronics,Tablets,47.63,7,94.46,661.22,5.9,0,No Return,661.22
+224,2023-04-16,Central,11,Tablets Item 11,Electronics,Tablets,47.63,6,98.08,588.48,14.4,0,No Return,588.48
+225,2023-06-20,East,57,Tables Item 57,Furniture,Tables,38.37,6,68.35,410.1,12.3,0,No Return,410.1
+226,2024-03-21,East,36,Storage Item 36,Office Supplies,Storage,112.65,1,146.17,146.17,10.3,0,No Return,146.17
+227,2024-11-26,West,21,Paper Item 21,Office Supplies,Paper,162.13,1,224.65,224.65,0.7,0,No Return,224.65
+228,2023-03-10,North,31,Pens Item 31,Office Supplies,Pens,162.39,6,271.32,1627.92,12.1,0,No Return,1627.92
+229,2024-11-26,Central,58,Tables Item 58,Furniture,Tables,147.18,6,247.79,1486.74,2.8,0,No Return,1486.74
+230,2024-01-11,North,51,Bookcases Item 51,Furniture,Bookcases,77.19,6,157.81,946.86,0.5,0,No Return,946.86
+231,2023-07-10,East,64,Mens Item 64,Clothing,Mens,138.5,9,235.88,2122.92,15.5,0,No Return,2122.92
+232,2024-12-21,West,58,Tables Item 58,Furniture,Tables,147.18,4,367.25,1469.0,4.0,0,No Return,1469.0
+233,2023-05-19,North,10,Laptops Item 10,Electronics,Laptops,10.81,8,15.4,123.2,16.2,0,No Return,123.2
+234,2023-11-24,East,45,Chairs Item 45,Furniture,Chairs,20.56,2,39.37,78.74,17.0,0,No Return,78.74
+235,2024-12-29,South,23,Paper Item 23,Office Supplies,Paper,71.35,6,132.81,796.86,15.8,478.51,Wrong Item Shipped,318.35
+236,2023-01-27,Central,47,Desks Item 47,Furniture,Desks,24.7,9,48.02,432.18,2.6,0,No Return,432.18
+237,2023-03-30,West,9,Laptops Item 9,Electronics,Laptops,87.27,5,149.9,749.5,10.5,0,No Return,749.5
+238,2024-02-24,North,74,Kids Item 74,Clothing,Kids,66.36,2,90.44,180.88,9.0,0,No Return,180.88
+239,2024-11-27,Central,67,Womens Item 67,Clothing,Womens,49.66,6,67.88,407.28,12.8,0,No Return,407.28
+240,2023-07-06,North,17,Accessories Item 17,Electronics,Accessories,47.99,7,88.96,622.72,10.4,0,No Return,622.72
+241,2023-11-08,East,22,Paper Item 22,Office Supplies,Paper,141.14,3,228.57,685.71,18.9,0,No Return,685.71
+242,2024-06-15,Central,37,Storage Item 37,Office Supplies,Storage,166.73,2,254.39,508.78,5.5,0,No Return,508.78
+243,2024-10-02,South,39,Storage Item 39,Office Supplies,Storage,173.03,10,327.64,3276.4,11.8,0,No Return,3276.4
+244,2024-08-17,Central,20,Accessories Item 20,Electronics,Accessories,6.27,3,12.89,38.67,6.8,0,No Return,38.67
+245,2024-07-31,Central,6,Laptops Item 6,Electronics,Laptops,136.96,1,178.81,178.81,5.3,0,No Return,178.81
+246,2023-08-04,East,74,Kids Item 74,Clothing,Kids,66.36,7,132.95,930.65,12.8,879.0,Late Delivery,51.65
+247,2023-11-06,East,62,Mens Item 62,Clothing,Mens,129.8,4,291.54,1166.16,9.1,0,No Return,1166.16
+248,2024-12-06,South,8,Laptops Item 8,Electronics,Laptops,21.95,3,38.88,116.64,6.8,0,No Return,116.64
+249,2023-05-28,West,41,Chairs Item 41,Furniture,Chairs,142.39,6,306.77,1840.62,2.6,0,No Return,1840.62
+250,2024-01-15,North,66,Womens Item 66,Clothing,Womens,156.32,9,209.16,1882.44,5.3,0,No Return,1882.44
+251,2023-09-11,Central,19,Accessories Item 19,Electronics,Accessories,162.84,2,206.12,412.24,8.4,0,No Return,412.24
+252,2023-06-13,South,42,Chairs Item 42,Furniture,Chairs,13.94,10,29.8,298.0,10.0,0,No Return,298.0
+253,2024-06-11,North,60,Tables Item 60,Furniture,Tables,78.99,8,185.06,1480.48,18.9,0,No Return,1480.48
+254,2024-06-01,North,59,Tables Item 59,Furniture,Tables,36.86,4,54.54,218.16,5.6,0,No Return,218.16
+255,2024-09-03,West,61,Mens Item 61,Clothing,Mens,197.96,5,375.67,1878.35,2.7,0,No Return,1878.35
+256,2023-09-28,Central,47,Desks Item 47,Furniture,Desks,24.7,7,41.39,289.73,11.2,0,No Return,289.73
+257,2024-01-07,Central,71,Kids Item 71,Clothing,Kids,46.14,5,59.78,298.9,5.6,0,No Return,298.9
+258,2024-09-30,Central,79,Accessories Item 79,Clothing,Accessories,56.65,2,77.46,154.92,18.8,106.37,Not As Described,48.55
+259,2023-05-28,North,26,Binders Item 26,Office Supplies,Binders,70.64,10,131.52,1315.2,0.8,0,No Return,1315.2
+260,2024-12-31,East,43,Chairs Item 43,Furniture,Chairs,49.44,8,92.71,741.68,18.6,702.05,Wrong Item Shipped,39.63
+261,2023-11-23,East,21,Paper Item 21,Office Supplies,Paper,162.13,7,403.35,2823.45,11.9,0,No Return,2823.45
+262,2024-06-03,West,66,Womens Item 66,Clothing,Womens,156.32,9,287.13,2584.17,16.3,0,No Return,2584.17
+263,2024-01-13,North,43,Chairs Item 43,Furniture,Chairs,49.44,2,122.31,244.62,11.9,0,No Return,244.62
+264,2023-09-29,Central,75,Kids Item 75,Clothing,Kids,132.81,10,198.66,1986.6,15.5,1470.53,Late Delivery,516.07
+265,2024-01-25,North,19,Accessories Item 19,Electronics,Accessories,162.84,4,202.09,808.36,3.8,0,No Return,808.36
+266,2024-03-27,West,41,Chairs Item 41,Furniture,Chairs,142.39,7,198.9,1392.3,10.0,0,No Return,1392.3
+267,2024-09-18,Central,61,Mens Item 61,Clothing,Mens,197.96,1,419.18,419.18,6.5,0,No Return,419.18
+268,2024-11-09,West,62,Mens Item 62,Clothing,Mens,129.8,9,219.35,1974.15,18.2,0,No Return,1974.15
+269,2023-12-17,East,70,Womens Item 70,Clothing,Womens,57.21,6,118.92,713.52,12.2,0,No Return,713.52
+270,2023-07-16,East,32,Pens Item 32,Office Supplies,Pens,147.3,5,283.63,1418.15,15.4,0,No Return,1418.15
+271,2024-12-22,East,27,Binders Item 27,Office Supplies,Binders,23.09,8,37.22,297.76,5.8,0,No Return,297.76
+272,2024-08-10,East,70,Womens Item 70,Clothing,Womens,57.21,7,135.27,946.89,19.1,0,No Return,946.89
+273,2023-05-30,East,38,Storage Item 38,Office Supplies,Storage,125.61,1,197.7,197.7,18.5,0,No Return,197.7
+274,2024-11-02,East,33,Pens Item 33,Office Supplies,Pens,109.56,8,161.95,1295.6,18.7,0,No Return,1295.6
+275,2024-12-13,South,35,Pens Item 35,Office Supplies,Pens,78.81,3,105.76,317.28,4.8,0,No Return,317.28
+276,2024-11-16,North,68,Womens Item 68,Clothing,Womens,11.26,4,22.85,91.4,13.6,64.59,Changed Mind,26.81
+277,2023-05-21,West,1,Phones Item 1,Electronics,Phones,129.69,9,320.5,2884.5,13.0,2383.88,Changed Mind,500.62
+278,2023-10-22,North,42,Chairs Item 42,Furniture,Chairs,13.94,5,28.43,142.15,13.0,0,No Return,142.15
+279,2023-08-26,North,69,Womens Item 69,Clothing,Womens,66.51,1,158.77,158.77,19.9,149.42,Wrong Item Shipped,9.35
+280,2024-02-11,East,64,Mens Item 64,Clothing,Mens,138.5,3,334.84,1004.52,17.5,0,No Return,1004.52
+281,2023-01-10,East,39,Storage Item 39,Office Supplies,Storage,173.03,10,343.23,3432.3,5.7,0,No Return,3432.3
+282,2024-10-18,Central,70,Womens Item 70,Clothing,Womens,57.21,9,105.39,948.51,9.4,0,No Return,948.51
+283,2023-07-17,East,15,Tablets Item 15,Electronics,Tablets,131.73,6,185.9,1115.4,14.4,0,No Return,1115.4
+284,2023-01-15,South,44,Chairs Item 44,Furniture,Chairs,61.43,5,119.06,595.3,12.2,0,No Return,595.3
+285,2024-10-16,South,52,Bookcases Item 52,Furniture,Bookcases,45.85,7,85.73,600.11,9.5,500.87,Wrong Item Shipped,99.24
+286,2023-09-12,East,1,Phones Item 1,Electronics,Phones,129.69,5,220.3,1101.5,19.1,0,No Return,1101.5
+287,2023-11-06,South,75,Kids Item 75,Clothing,Kids,132.81,10,161.35,1613.5,1.2,0,No Return,1613.5
+288,2023-05-02,East,60,Tables Item 60,Furniture,Tables,78.99,5,111.19,555.95,13.8,0,No Return,555.95
+289,2024-10-16,South,38,Storage Item 38,Office Supplies,Storage,125.61,6,251.1,1506.6,9.6,0,No Return,1506.6
+290,2024-04-10,West,78,Accessories Item 78,Clothing,Accessories,94.48,6,164.45,986.7,15.1,0,No Return,986.7
+291,2024-11-11,North,28,Binders Item 28,Office Supplies,Binders,23.86,4,49.73,198.92,10.5,0,No Return,198.92
+292,2024-06-24,South,47,Desks Item 47,Furniture,Desks,24.7,2,59.09,118.18,11.5,108.06,Late Delivery,10.12
+293,2023-06-03,South,22,Paper Item 22,Office Supplies,Paper,141.14,6,326.15,1956.9,14.3,0,No Return,1956.9
+294,2024-05-15,West,12,Tablets Item 12,Electronics,Tablets,103.54,9,184.21,1657.89,11.3,938.32,Changed Mind,719.57
+295,2024-07-26,North,60,Tables Item 60,Furniture,Tables,78.99,5,169.06,845.3,14.9,0,No Return,845.3
+296,2024-08-15,Central,10,Laptops Item 10,Electronics,Laptops,10.81,1,18.93,18.93,19.9,0,No Return,18.93
+297,2023-03-12,East,61,Mens Item 61,Clothing,Mens,197.96,1,311.43,311.43,19.9,176.8,Changed Mind,134.63
+298,2024-01-27,Central,58,Tables Item 58,Furniture,Tables,147.18,7,248.49,1739.43,2.7,0,No Return,1739.43
+299,2023-12-23,South,16,Accessories Item 16,Electronics,Accessories,111.26,3,277.12,831.36,14.6,0,No Return,831.36
+300,2023-08-17,Central,1,Phones Item 1,Electronics,Phones,129.69,1,320.6,320.6,8.5,0,No Return,320.6
+301,2024-01-24,North,30,Binders Item 30,Office Supplies,Binders,122.73,4,220.77,883.08,16.2,524.76,Defective Product,358.32
+302,2024-03-05,Central,79,Accessories Item 79,Clothing,Accessories,56.65,1,85.7,85.7,13.4,68.3,Changed Mind,17.4
+303,2023-02-19,South,32,Pens Item 32,Office Supplies,Pens,147.3,1,253.79,253.79,15.1,0,No Return,253.79
+304,2023-02-27,Central,18,Accessories Item 18,Electronics,Accessories,119.91,9,298.76,2688.84,6.4,0,No Return,2688.84
+305,2024-09-04,West,42,Chairs Item 42,Furniture,Chairs,13.94,4,22.2,88.8,6.0,73.71,Wrong Item Shipped,15.09
+306,2023-03-04,West,72,Kids Item 72,Clothing,Kids,188.87,10,442.64,4426.4,11.1,0,No Return,4426.4
+307,2023-02-18,West,45,Chairs Item 45,Furniture,Chairs,20.56,7,45.67,319.69,8.2,0,No Return,319.69
+308,2023-11-04,South,49,Desks Item 49,Furniture,Desks,128.96,3,281.23,843.69,6.0,0,No Return,843.69
+309,2024-12-25,West,19,Accessories Item 19,Electronics,Accessories,162.84,8,389.05,3112.4,11.1,0,No Return,3112.4
+310,2023-05-18,North,50,Desks Item 50,Furniture,Desks,76.14,4,116.61,466.44,18.4,0,No Return,466.44
+311,2024-01-15,East,12,Tablets Item 12,Electronics,Tablets,103.54,9,221.78,1996.02,7.5,0,No Return,1996.02
+312,2024-09-11,Central,78,Accessories Item 78,Clothing,Accessories,94.48,1,220.68,220.68,14.5,0,No Return,220.68
+313,2024-07-26,East,28,Binders Item 28,Office Supplies,Binders,23.86,8,35.11,280.88,19.1,0,No Return,280.88
+314,2023-01-16,South,28,Binders Item 28,Office Supplies,Binders,23.86,4,58.47,233.88,13.9,233.83,Changed Mind,0.05
+315,2024-12-21,East,27,Binders Item 27,Office Supplies,Binders,23.09,7,55.18,386.26,7.6,0,No Return,386.26
+316,2024-06-30,West,46,Desks Item 46,Furniture,Desks,50.39,5,77.6,388.0,9.3,0,No Return,388.0
+317,2024-04-25,Central,41,Chairs Item 41,Furniture,Chairs,142.39,4,239.49,957.96,17.3,0,No Return,957.96
+318,2023-05-30,West,3,Phones Item 3,Electronics,Phones,58.63,5,112.53,562.65,5.9,0,No Return,562.65
+319,2023-07-20,West,43,Chairs Item 43,Furniture,Chairs,49.44,4,83.74,334.96,11.0,0,No Return,334.96
+320,2024-12-02,West,44,Chairs Item 44,Furniture,Chairs,61.43,5,134.68,673.4,9.2,0,No Return,673.4
+321,2023-12-27,Central,22,Paper Item 22,Office Supplies,Paper,141.14,3,301.53,904.59,19.8,0,No Return,904.59
+322,2023-03-02,North,68,Womens Item 68,Clothing,Womens,11.26,1,25.79,25.79,8.2,23.44,Defective Product,2.35
+323,2024-10-07,North,30,Binders Item 30,Office Supplies,Binders,122.73,2,260.1,520.2,12.4,391.64,Not As Described,128.56
+324,2024-11-13,North,79,Accessories Item 79,Clothing,Accessories,56.65,8,116.53,932.24,0.3,714.19,Changed Mind,218.05
+325,2023-10-09,West,69,Womens Item 69,Clothing,Womens,66.51,5,81.29,406.45,16.1,0,No Return,406.45
+326,2023-07-03,Central,14,Tablets Item 14,Electronics,Tablets,43.77,2,82.36,164.72,10.5,0,No Return,164.72
+327,2023-12-29,West,35,Pens Item 35,Office Supplies,Pens,78.81,7,102.67,718.69,11.3,0,No Return,718.69
+328,2024-12-14,North,29,Binders Item 29,Office Supplies,Binders,170.26,5,355.72,1778.6,1.9,0,No Return,1778.6
+329,2024-01-24,South,49,Desks Item 49,Furniture,Desks,128.96,9,234.55,2110.95,1.7,0,No Return,2110.95
+330,2024-03-20,Central,43,Chairs Item 43,Furniture,Chairs,49.44,10,122.14,1221.4,18.4,0,No Return,1221.4
+331,2023-08-24,Central,28,Binders Item 28,Office Supplies,Binders,23.86,10,43.38,433.8,11.3,233.03,Not As Described,200.77
+332,2023-02-03,South,23,Paper Item 23,Office Supplies,Paper,71.35,6,87.07,522.42,15.0,0,No Return,522.42
+333,2024-12-30,Central,51,Bookcases Item 51,Furniture,Bookcases,77.19,2,122.66,245.32,16.7,0,No Return,245.32
+334,2024-02-03,North,70,Womens Item 70,Clothing,Womens,57.21,6,97.2,583.2,10.0,0,No Return,583.2
+335,2023-12-21,East,7,Laptops Item 7,Electronics,Laptops,178.98,2,316.48,632.96,12.1,0,No Return,632.96
+336,2024-09-20,East,77,Accessories Item 77,Clothing,Accessories,183.34,7,450.94,3156.58,15.7,0,No Return,3156.58
+337,2024-04-06,West,63,Mens Item 63,Clothing,Mens,113.61,4,188.88,755.52,3.7,0,No Return,755.52
+338,2024-08-22,South,49,Desks Item 49,Furniture,Desks,128.96,2,284.2,568.4,14.3,0,No Return,568.4
+339,2023-03-26,South,35,Pens Item 35,Office Supplies,Pens,78.81,3,133.5,400.5,14.8,0,No Return,400.5
+340,2023-11-21,West,47,Desks Item 47,Furniture,Desks,24.7,2,32.58,65.16,7.2,0,No Return,65.16
+341,2023-10-04,Central,14,Tablets Item 14,Electronics,Tablets,43.77,3,57.49,172.47,11.1,0,No Return,172.47
+342,2024-02-22,Central,14,Tablets Item 14,Electronics,Tablets,43.77,1,57.62,57.62,12.0,0,No Return,57.62
+343,2023-11-29,North,50,Desks Item 50,Furniture,Desks,76.14,1,120.26,120.26,14.5,0,No Return,120.26
+344,2024-07-26,South,32,Pens Item 32,Office Supplies,Pens,147.3,10,276.55,2765.5,2.8,0,No Return,2765.5
+345,2023-11-05,West,35,Pens Item 35,Office Supplies,Pens,78.81,8,109.52,876.16,15.7,558.97,Not As Described,317.19
+346,2024-01-05,Central,33,Pens Item 33,Office Supplies,Pens,109.56,4,234.15,936.6,3.9,0,No Return,936.6
+347,2023-04-20,Central,18,Accessories Item 18,Electronics,Accessories,119.91,5,144.95,724.75,7.6,0,No Return,724.75
+348,2023-12-04,Central,57,Tables Item 57,Furniture,Tables,38.37,6,67.52,405.12,2.7,0,No Return,405.12
+349,2023-11-25,East,78,Accessories Item 78,Clothing,Accessories,94.48,4,172.21,688.84,14.7,481.58,Not As Described,207.26
+350,2024-10-10,East,63,Mens Item 63,Clothing,Mens,113.61,10,251.82,2518.2,16.3,0,No Return,2518.2
+351,2024-02-07,Central,47,Desks Item 47,Furniture,Desks,24.7,2,59.57,119.14,3.6,0,No Return,119.14
+352,2024-07-17,East,4,Phones Item 4,Electronics,Phones,48.53,8,117.73,941.84,16.6,0,No Return,941.84
+353,2023-03-12,East,53,Bookcases Item 53,Furniture,Bookcases,57.06,8,78.8,630.4,13.2,0,No Return,630.4
+354,2024-03-09,Central,49,Desks Item 49,Furniture,Desks,128.96,2,230.04,460.08,8.0,0,No Return,460.08
+355,2024-06-02,Central,54,Bookcases Item 54,Furniture,Bookcases,187.65,9,234.15,2107.35,11.9,0,No Return,2107.35
+356,2023-03-29,Central,14,Tablets Item 14,Electronics,Tablets,43.77,4,89.94,359.76,0.9,0,No Return,359.76
+357,2024-10-22,North,52,Bookcases Item 52,Furniture,Bookcases,45.85,6,112.58,675.48,2.0,0,No Return,675.48
+358,2023-08-16,South,66,Womens Item 66,Clothing,Womens,156.32,9,300.98,2708.82,8.9,0,No Return,2708.82
+359,2024-02-05,North,60,Tables Item 60,Furniture,Tables,78.99,10,165.69,1656.9,5.9,1655.0,Changed Mind,1.9
+360,2023-03-29,South,15,Tablets Item 15,Electronics,Tablets,131.73,3,217.73,653.19,10.4,0,No Return,653.19
+361,2023-12-23,East,61,Mens Item 61,Clothing,Mens,197.96,2,350.31,700.62,1.3,0,No Return,700.62
+362,2023-02-15,South,15,Tablets Item 15,Electronics,Tablets,131.73,1,303.5,303.5,18.6,0,No Return,303.5
+363,2023-09-07,West,67,Womens Item 67,Clothing,Womens,49.66,3,95.22,285.66,19.2,0,No Return,285.66
+364,2023-08-26,West,52,Bookcases Item 52,Furniture,Bookcases,45.85,3,66.13,198.39,0.6,0,No Return,198.39
+365,2024-09-20,South,26,Binders Item 26,Office Supplies,Binders,70.64,8,139.15,1113.2,4.1,0,No Return,1113.2
+366,2024-12-21,South,9,Laptops Item 9,Electronics,Laptops,87.27,10,116.27,1162.7,7.3,0,No Return,1162.7
+367,2023-07-21,Central,59,Tables Item 59,Furniture,Tables,36.86,2,56.8,113.6,19.3,0,No Return,113.6
+368,2023-11-17,East,77,Accessories Item 77,Clothing,Accessories,183.34,7,365.71,2559.97,7.0,0,No Return,2559.97
+369,2024-04-13,East,80,Accessories Item 80,Clothing,Accessories,53.09,3,119.87,359.61,18.4,0,No Return,359.61
+370,2024-08-27,North,11,Tablets Item 11,Electronics,Tablets,47.63,3,76.55,229.65,3.7,0,No Return,229.65
+371,2024-12-11,Central,19,Accessories Item 19,Electronics,Accessories,162.84,9,277.64,2498.76,7.7,0,No Return,2498.76
+372,2023-07-10,South,63,Mens Item 63,Clothing,Mens,113.61,9,238.75,2148.75,11.1,0,No Return,2148.75
+373,2024-05-16,Central,37,Storage Item 37,Office Supplies,Storage,166.73,3,240.63,721.89,1.1,0,No Return,721.89
+374,2024-01-03,Central,2,Phones Item 2,Electronics,Phones,9.88,8,13.61,108.88,10.1,0,No Return,108.88
+375,2024-05-21,West,53,Bookcases Item 53,Furniture,Bookcases,57.06,8,99.3,794.4,3.3,0,No Return,794.4
+376,2024-08-01,Central,4,Phones Item 4,Electronics,Phones,48.53,4,76.66,306.64,5.8,0,No Return,306.64
+377,2024-04-13,East,73,Kids Item 73,Clothing,Kids,175.89,8,336.77,2694.16,10.8,1500.93,Late Delivery,1193.23
+378,2023-02-12,South,57,Tables Item 57,Furniture,Tables,38.37,9,56.95,512.55,6.0,0,No Return,512.55
+379,2023-02-03,West,58,Tables Item 58,Furniture,Tables,147.18,5,243.31,1216.55,17.3,0,No Return,1216.55
+380,2023-05-01,East,31,Pens Item 31,Office Supplies,Pens,162.39,4,366.01,1464.04,17.2,0,No Return,1464.04
+381,2024-09-16,South,55,Bookcases Item 55,Furniture,Bookcases,131.37,3,262.87,788.61,16.1,0,No Return,788.61
+382,2024-08-06,East,45,Chairs Item 45,Furniture,Chairs,20.56,9,32.18,289.62,19.6,0,No Return,289.62
+383,2023-10-27,North,38,Storage Item 38,Office Supplies,Storage,125.61,10,194.39,1943.9,2.7,0,No Return,1943.9
+384,2024-02-26,South,8,Laptops Item 8,Electronics,Laptops,21.95,5,51.08,255.4,14.2,238.3,Wrong Item Shipped,17.1
+385,2023-09-11,West,51,Bookcases Item 51,Furniture,Bookcases,77.19,8,106.89,855.12,7.5,0,No Return,855.12
+386,2023-03-19,East,12,Tablets Item 12,Electronics,Tablets,103.54,7,193.65,1355.55,9.1,0,No Return,1355.55
+387,2024-05-14,North,42,Chairs Item 42,Furniture,Chairs,13.94,10,16.77,167.7,14.6,0,No Return,167.7
+388,2024-04-14,West,46,Desks Item 46,Furniture,Desks,50.39,2,112.59,225.18,16.5,0,No Return,225.18
+389,2024-05-21,Central,35,Pens Item 35,Office Supplies,Pens,78.81,6,179.44,1076.64,2.6,0,No Return,1076.64
+390,2024-05-11,West,44,Chairs Item 44,Furniture,Chairs,61.43,1,77.38,77.38,0.3,0,No Return,77.38
+391,2023-06-11,South,57,Tables Item 57,Furniture,Tables,38.37,8,46.08,368.64,19.9,0,No Return,368.64
+392,2023-05-16,North,39,Storage Item 39,Office Supplies,Storage,173.03,3,404.33,1212.99,13.1,0,No Return,1212.99
+393,2023-09-14,North,11,Tablets Item 11,Electronics,Tablets,47.63,6,98.3,589.8,7.9,0,No Return,589.8
+394,2023-11-09,North,30,Binders Item 30,Office Supplies,Binders,122.73,7,251.86,1763.02,4.3,0,No Return,1763.02
+395,2023-03-21,North,17,Accessories Item 17,Electronics,Accessories,47.99,10,71.7,717.0,0.2,0,No Return,717.0
+396,2023-12-18,South,16,Accessories Item 16,Electronics,Accessories,111.26,7,233.9,1637.3,7.7,0,No Return,1637.3
+397,2023-04-15,West,14,Tablets Item 14,Electronics,Tablets,43.77,6,73.44,440.64,15.5,0,No Return,440.64
+398,2023-05-17,East,19,Accessories Item 19,Electronics,Accessories,162.84,2,307.71,615.42,14.4,507.73,Changed Mind,107.69
+399,2024-10-05,South,20,Accessories Item 20,Electronics,Accessories,6.27,7,12.55,87.85,1.7,0,No Return,87.85
+400,2023-04-13,West,18,Accessories Item 18,Electronics,Accessories,119.91,2,235.8,471.6,6.3,0,No Return,471.6
+401,2023-05-24,Central,32,Pens Item 32,Office Supplies,Pens,147.3,5,300.2,1501.0,12.0,0,No Return,1501.0
+402,2024-09-14,East,37,Storage Item 37,Office Supplies,Storage,166.73,1,383.86,383.86,4.1,0,No Return,383.86
+403,2024-09-13,North,66,Womens Item 66,Clothing,Womens,156.32,4,339.56,1358.24,15.7,0,No Return,1358.24
+404,2023-09-03,Central,64,Mens Item 64,Clothing,Mens,138.5,7,186.5,1305.5,1.4,0,No Return,1305.5
+405,2023-01-13,Central,47,Desks Item 47,Furniture,Desks,24.7,6,33.88,203.28,8.4,0,No Return,203.28
+406,2024-07-13,North,23,Paper Item 23,Office Supplies,Paper,71.35,8,174.15,1393.2,11.7,0,No Return,1393.2
+407,2023-01-15,East,34,Pens Item 34,Office Supplies,Pens,194.76,4,243.8,975.2,12.6,872.46,Late Delivery,102.74
+408,2024-05-28,South,54,Bookcases Item 54,Furniture,Bookcases,187.65,7,396.38,2774.66,5.5,2131.72,Late Delivery,642.94
+409,2023-11-14,South,11,Tablets Item 11,Electronics,Tablets,47.63,9,114.18,1027.62,10.7,0,No Return,1027.62
+410,2024-02-05,South,76,Accessories Item 76,Clothing,Accessories,82.15,2,131.7,263.4,1.2,0,No Return,263.4
+411,2023-03-30,East,56,Tables Item 56,Furniture,Tables,123.78,2,221.49,442.98,13.3,0,No Return,442.98
+412,2024-11-04,East,23,Paper Item 23,Office Supplies,Paper,71.35,2,86.79,173.58,10.5,87.78,Changed Mind,85.8
+413,2023-09-23,East,22,Paper Item 22,Office Supplies,Paper,141.14,6,192.66,1155.96,14.7,0,No Return,1155.96
+414,2023-05-01,North,4,Phones Item 4,Electronics,Phones,48.53,6,109.16,654.96,5.3,0,No Return,654.96
+415,2024-08-13,West,10,Laptops Item 10,Electronics,Laptops,10.81,8,19.37,154.96,17.2,0,No Return,154.96
+416,2023-06-20,South,48,Desks Item 48,Furniture,Desks,59.2,3,90.67,272.01,14.8,214.06,Defective Product,57.95
+417,2023-01-03,West,6,Laptops Item 6,Electronics,Laptops,136.96,1,207.89,207.89,18.4,0,No Return,207.89
+418,2023-07-03,West,5,Phones Item 5,Electronics,Phones,148.61,9,333.49,3001.41,4.5,0,No Return,3001.41
+419,2023-09-12,North,54,Bookcases Item 54,Furniture,Bookcases,187.65,6,291.35,1748.1,3.6,1199.9,Late Delivery,548.2
+420,2024-06-12,East,6,Laptops Item 6,Electronics,Laptops,136.96,7,176.62,1236.34,15.5,0,No Return,1236.34
+421,2023-11-15,East,42,Chairs Item 42,Furniture,Chairs,13.94,2,26.75,53.5,14.8,32.12,Late Delivery,21.38
+422,2023-09-06,South,60,Tables Item 60,Furniture,Tables,78.99,6,155.55,933.3,14.6,0,No Return,933.3
+423,2024-07-13,South,32,Pens Item 32,Office Supplies,Pens,147.3,3,177.98,533.94,10.8,0,No Return,533.94
+424,2024-10-13,East,2,Phones Item 2,Electronics,Phones,9.88,6,11.87,71.22,2.1,0,No Return,71.22
+425,2024-06-26,North,31,Pens Item 31,Office Supplies,Pens,162.39,7,298.74,2091.18,0.9,2088.0,Not As Described,3.18
+426,2023-08-26,North,67,Womens Item 67,Clothing,Womens,49.66,7,104.84,733.88,11.6,0,No Return,733.88
+427,2024-06-01,West,18,Accessories Item 18,Electronics,Accessories,119.91,7,155.56,1088.92,13.2,0,No Return,1088.92
+428,2023-05-14,West,31,Pens Item 31,Office Supplies,Pens,162.39,5,249.97,1249.85,14.0,0,No Return,1249.85
+429,2023-12-01,North,41,Chairs Item 41,Furniture,Chairs,142.39,8,221.21,1769.68,3.1,1064.21,Late Delivery,705.47
+430,2023-06-18,West,58,Tables Item 58,Furniture,Tables,147.18,8,236.7,1893.6,6.2,1286.03,Wrong Item Shipped,607.57
+431,2023-09-29,Central,16,Accessories Item 16,Electronics,Accessories,111.26,2,156.31,312.62,0.8,0,No Return,312.62
+432,2023-12-02,West,19,Accessories Item 19,Electronics,Accessories,162.84,2,345.95,691.9,10.3,0,No Return,691.9
+433,2024-11-24,Central,39,Storage Item 39,Office Supplies,Storage,173.03,5,392.11,1960.55,15.0,1913.59,Changed Mind,46.96
+434,2023-09-13,North,13,Tablets Item 13,Electronics,Tablets,10.17,8,13.55,108.4,0.2,0,No Return,108.4
+435,2023-08-16,North,17,Accessories Item 17,Electronics,Accessories,47.99,4,108.97,435.88,11.6,0,No Return,435.88
+436,2023-09-23,West,10,Laptops Item 10,Electronics,Laptops,10.81,1,26.99,26.99,16.2,0,No Return,26.99
+437,2023-04-05,South,43,Chairs Item 43,Furniture,Chairs,49.44,2,62.07,124.14,18.5,0,No Return,124.14
+438,2024-03-19,South,51,Bookcases Item 51,Furniture,Bookcases,77.19,8,95.59,764.72,7.1,0,No Return,764.72
+439,2023-07-11,South,36,Storage Item 36,Office Supplies,Storage,112.65,5,200.5,1002.5,12.9,809.07,Late Delivery,193.43
+440,2024-05-25,South,53,Bookcases Item 53,Furniture,Bookcases,57.06,9,104.01,936.09,12.9,647.31,Changed Mind,288.78
+441,2024-06-22,East,32,Pens Item 32,Office Supplies,Pens,147.3,9,328.97,2960.73,9.6,0,No Return,2960.73
+442,2024-05-11,South,45,Chairs Item 45,Furniture,Chairs,20.56,10,38.1,381.0,0.5,0,No Return,381.0
+443,2024-09-03,North,29,Binders Item 29,Office Supplies,Binders,170.26,1,402.58,402.58,16.2,0,No Return,402.58
+444,2024-04-28,South,68,Womens Item 68,Clothing,Womens,11.26,6,24.74,148.44,2.0,0,No Return,148.44
+445,2024-11-03,North,31,Pens Item 31,Office Supplies,Pens,162.39,5,307.53,1537.65,15.3,0,No Return,1537.65
+446,2023-08-13,South,74,Kids Item 74,Clothing,Kids,66.36,7,110.24,771.68,3.5,0,No Return,771.68
+447,2024-08-29,Central,41,Chairs Item 41,Furniture,Chairs,142.39,6,340.05,2040.3,2.8,1734.83,Late Delivery,305.47
+448,2023-07-12,North,64,Mens Item 64,Clothing,Mens,138.5,9,221.85,1996.65,1.1,0,No Return,1996.65
+449,2024-09-08,South,29,Binders Item 29,Office Supplies,Binders,170.26,1,320.84,320.84,6.8,307.67,Wrong Item Shipped,13.17
+450,2023-07-01,South,42,Chairs Item 42,Furniture,Chairs,13.94,1,17.13,17.13,15.5,0,No Return,17.13
+451,2024-06-22,West,47,Desks Item 47,Furniture,Desks,24.7,2,41.64,83.28,11.7,0,No Return,83.28
+452,2023-12-11,East,39,Storage Item 39,Office Supplies,Storage,173.03,6,238.33,1429.98,3.5,1393.3,Changed Mind,36.68
+453,2024-07-29,South,79,Accessories Item 79,Clothing,Accessories,56.65,6,84.42,506.52,7.6,0,No Return,506.52
+454,2024-12-06,West,38,Storage Item 38,Office Supplies,Storage,125.61,3,179.75,539.25,17.0,458.9,Late Delivery,80.35
+455,2024-08-04,Central,5,Phones Item 5,Electronics,Phones,148.61,3,294.71,884.13,4.4,0,No Return,884.13
+456,2024-08-02,South,14,Tablets Item 14,Electronics,Tablets,43.77,8,60.53,484.24,6.9,0,No Return,484.24
+457,2023-11-24,East,22,Paper Item 22,Office Supplies,Paper,141.14,2,320.13,640.26,8.9,0,No Return,640.26
+458,2023-09-29,North,27,Binders Item 27,Office Supplies,Binders,23.09,4,48.52,194.08,14.4,0,No Return,194.08
+459,2023-02-19,West,50,Desks Item 50,Furniture,Desks,76.14,8,163.88,1311.04,9.9,0,No Return,1311.04
+460,2024-01-23,Central,45,Chairs Item 45,Furniture,Chairs,20.56,9,34.7,312.3,13.0,0,No Return,312.3
+461,2024-12-04,North,29,Binders Item 29,Office Supplies,Binders,170.26,3,304.2,912.6,5.9,0,No Return,912.6
+462,2023-11-23,Central,34,Pens Item 34,Office Supplies,Pens,194.76,2,252.5,505.0,18.8,347.3,Defective Product,157.7
+463,2023-04-06,North,44,Chairs Item 44,Furniture,Chairs,61.43,10,152.4,1524.0,8.6,0,No Return,1524.0
+464,2024-10-31,South,22,Paper Item 22,Office Supplies,Paper,141.14,10,332.62,3326.2,8.2,1831.5,Wrong Item Shipped,1494.7
+465,2024-07-21,North,70,Womens Item 70,Clothing,Womens,57.21,5,117.78,588.9,1.0,0,No Return,588.9
+466,2024-08-08,West,71,Kids Item 71,Clothing,Kids,46.14,8,64.58,516.64,1.8,0,No Return,516.64
+467,2024-11-08,North,77,Accessories Item 77,Clothing,Accessories,183.34,8,267.6,2140.8,9.5,1253.26,Not As Described,887.54
+468,2023-04-29,East,40,Storage Item 40,Office Supplies,Storage,117.58,7,213.08,1491.56,1.8,0,No Return,1491.56
+469,2024-07-11,South,50,Desks Item 50,Furniture,Desks,76.14,3,128.09,384.27,8.9,0,No Return,384.27
+470,2023-09-27,Central,57,Tables Item 57,Furniture,Tables,38.37,8,59.18,473.44,1.2,0,No Return,473.44
+471,2024-12-14,West,13,Tablets Item 13,Electronics,Tablets,10.17,2,21.04,42.08,19.4,0,No Return,42.08
+472,2024-08-26,Central,30,Binders Item 30,Office Supplies,Binders,122.73,9,157.01,1413.09,8.4,0,No Return,1413.09
+473,2024-07-02,North,61,Mens Item 61,Clothing,Mens,197.96,10,464.44,4644.4,7.9,0,No Return,4644.4
+474,2023-02-05,Central,65,Mens Item 65,Clothing,Mens,169.36,10,401.48,4014.8,2.9,0,No Return,4014.8
+475,2024-04-04,South,23,Paper Item 23,Office Supplies,Paper,71.35,3,175.79,527.37,0.9,0,No Return,527.37
+476,2023-03-22,Central,56,Tables Item 56,Furniture,Tables,123.78,4,309.01,1236.04,5.2,0,No Return,1236.04
+477,2023-03-10,East,12,Tablets Item 12,Electronics,Tablets,103.54,7,199.14,1393.98,10.4,0,No Return,1393.98
+478,2023-01-13,West,80,Accessories Item 80,Clothing,Accessories,53.09,10,99.77,997.7,3.0,0,No Return,997.7
+479,2024-08-03,North,76,Accessories Item 76,Clothing,Accessories,82.15,10,179.57,1795.7,11.3,0,No Return,1795.7
+480,2023-04-14,East,37,Storage Item 37,Office Supplies,Storage,166.73,9,390.84,3517.56,7.7,0,No Return,3517.56
+481,2024-05-12,Central,74,Kids Item 74,Clothing,Kids,66.36,10,120.44,1204.4,13.6,844.87,Late Delivery,359.53
+482,2024-02-16,South,5,Phones Item 5,Electronics,Phones,148.61,7,350.19,2451.33,1.0,0,No Return,2451.33
+483,2024-05-01,East,35,Pens Item 35,Office Supplies,Pens,78.81,6,96.64,579.84,6.2,0,No Return,579.84
+484,2024-05-18,West,13,Tablets Item 13,Electronics,Tablets,10.17,4,13.98,55.92,15.5,0,No Return,55.92
+485,2023-11-25,West,35,Pens Item 35,Office Supplies,Pens,78.81,7,156.55,1095.85,15.2,789.95,Changed Mind,305.9
+486,2024-01-18,South,8,Laptops Item 8,Electronics,Laptops,21.95,9,48.93,440.37,15.6,376.42,Changed Mind,63.95
+487,2024-06-20,South,73,Kids Item 73,Clothing,Kids,175.89,1,250.79,250.79,16.7,0,No Return,250.79
+488,2023-09-13,South,5,Phones Item 5,Electronics,Phones,148.61,8,188.1,1504.8,5.5,0,No Return,1504.8
+489,2024-04-20,West,65,Mens Item 65,Clothing,Mens,169.36,7,343.13,2401.91,11.9,1237.66,Not As Described,1164.25
+490,2023-07-01,East,61,Mens Item 61,Clothing,Mens,197.96,10,379.44,3794.4,15.0,0,No Return,3794.4
+491,2024-12-06,South,12,Tablets Item 12,Electronics,Tablets,103.54,5,127.94,639.7,12.9,592.94,Wrong Item Shipped,46.76
+492,2024-11-24,North,27,Binders Item 27,Office Supplies,Binders,23.09,5,47.27,236.35,9.5,0,No Return,236.35
+493,2023-05-16,Central,23,Paper Item 23,Office Supplies,Paper,71.35,10,159.9,1599.0,16.1,0,No Return,1599.0
+494,2023-11-09,West,36,Storage Item 36,Office Supplies,Storage,112.65,7,266.32,1864.24,5.0,0,No Return,1864.24
+495,2024-04-22,North,39,Storage Item 39,Office Supplies,Storage,173.03,9,393.06,3537.54,0.1,0,No Return,3537.54
+496,2024-11-09,East,48,Desks Item 48,Furniture,Desks,59.2,9,120.86,1087.74,13.7,0,No Return,1087.74
+497,2024-05-08,East,9,Laptops Item 9,Electronics,Laptops,87.27,6,216.85,1301.1,5.2,0,No Return,1301.1
+498,2024-12-29,North,39,Storage Item 39,Office Supplies,Storage,173.03,4,241.36,965.44,16.1,0,No Return,965.44
+499,2024-09-06,West,52,Bookcases Item 52,Furniture,Bookcases,45.85,6,95.6,573.6,19.9,0,No Return,573.6
+500,2023-09-23,South,54,Bookcases Item 54,Furniture,Bookcases,187.65,7,319.9,2239.3,6.9,1912.44,Late Delivery,326.86
