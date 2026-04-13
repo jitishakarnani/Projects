@@ -1,0 +1,25 @@
+# Power BI temp files
+*.pbix.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database exports (large files)
+exports/
+*.dump
+*.sql.gz
+
+# Environment
+.env
+*.env
+
+# Editor
+.vscode/
+.idea/
+
+# Python (if used for data generation)
+__pycache__/
+*.pyc
+venv/
